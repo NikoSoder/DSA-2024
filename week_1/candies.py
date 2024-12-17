@@ -1,5 +1,6 @@
 import math
 
+
 def count(a, b, c):
     first_count = c / a
     second_count = c / b

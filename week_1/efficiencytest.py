@@ -9,9 +9,11 @@ import time
 #             result += 1
 #     return result
 
+
 # implementation 2
 def count_even(numbers):
     return sum(x % 2 == 0 for x in numbers)
+
 
 n = 10000000
 print("n:", n)
